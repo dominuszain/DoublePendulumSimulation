@@ -41,23 +41,3 @@ scatter(0, 0)
 comet([posx1', posx2'], [posy1', posy2'])
 
 // see the relevant paper for more information.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
