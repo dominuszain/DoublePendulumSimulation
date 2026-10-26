@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Double pendulum simulation"
+abstract: "Numerical solutions and animations of the double pendulum, with a symbolic derivation in SymPy and implementations in Scilab and Python."
+authors:
+  - family-names: Ul Abideen
+    given-names: Zain
+    email: zain2@uni-bremen.de
+    affiliation: University of Bremen
+version: "1.0.0"
+date-released: "2026-10-26"
+license: MIT
+url: "https://github.com/dominuszain/DoublePendulumSimulation"
+repository-code: "https://github.com/dominuszain/DoublePendulumSimulation"
+keywords:
+  - classical mechanics
+  - double pendulum
+  - chaotic dynamics
+  - lagrangian mechanics
+  - numerical methods
+  - python
+  - scilab
+EOF

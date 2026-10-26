@@ -73,7 +73,7 @@ class DoublePendulumSim:
         self.ax.set_aspect('equal')
         self.ax.grid()
 
-        self.fig.suptitle("Code of Zain Ul Abideen\nModernized by Claude Code + Gemma4",
+        self.fig.suptitle("Code of Zain Ul Abideen",
                            fontsize=14, fontweight='bold')
 
         self.line, = self.ax.plot([], [], 'o-', lw=2, color='blue')
